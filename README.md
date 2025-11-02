@@ -98,7 +98,7 @@ Install these from **Arduino IDE → Sketch → Include Library → Manage Libra
 ## 💻 Source Code
 
 The complete ESP32 code used in this project:  
-📄 [air_quality_monitor.ino](./air_quality_monitor.ino)
+📄 [https://github.com/naveen02-arch/IoT-Based-Air-Quality-Monitoring-Using-ESP32-and-ThingSpeak-/blob/main/Air_Quality_moniter.ino)
 
 > This code supports both **offline (OLED + Serial)** and **online (ThingSpeak)** modes.
 
